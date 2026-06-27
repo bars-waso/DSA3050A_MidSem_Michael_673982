@@ -57,7 +57,7 @@ Advanced Tasks
 * Grouped data by Brand
 * Grouped data by Region
 * Pivoted Product column
-* Replaced null values in SSD
+* Replaced null and N/A values in SSD
 * Extracted storage values before “GB”
 
 ⸻
