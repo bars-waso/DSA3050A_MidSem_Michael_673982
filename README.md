@@ -1,22 +1,25 @@
-Mobile Sales Analysis Dashboard
+📱Mobile Sales Analysis Dashboard
+
+⸻
+
 
 Student Information
 
-Name: Michael Sifuna Barasa
-Student ID: 673982
+* Name: Michael Sifuna Barasa
+* Student ID: 673982
 
 ⸻
 
-Dataset Information
+📄Dataset Information
 
-Dataset Name: Mobile Sales Dataset
-Source: https://www.kaggle.com/code/miratharwat/sales-dataset/input
-Rows: 50000
-Columns: 16
+* Dataset Name: Mobile Sales Dataset
+* Source: [https://www.kaggle.com/code/miratharwat/sales-dataset/input]
+* Rows: 50000
+* Columns: 16
 
 ⸻
 
-Business Problem
+⚠️Business Problem
 
 The company wants to analyze the business performance of the sale of technology equipment across different regions, customer location and brands to improve on future decision making. The dataset contains inconsistent information which needs to be structure and made clear for business intelligence purposes.
 
@@ -30,7 +33,7 @@ The objective of this project was to:
 
 Power Query Transformations Performed
 
-Basic Cleaning
+✅Basic Cleaning
 
 * Renamed columns
 * Changed data types
@@ -40,7 +43,9 @@ Basic Cleaning
 * Replaced values
 * Removed unwanted columns
 
-Intermediate Transformations
+⸻
+
+🗿Intermediate Transformations
 
 * Split RAM, ROM, and SSD columns
 * Merged Product and Brand columns
@@ -52,7 +57,9 @@ Intermediate Transformations
 * Sorted Total Sales in descending order
 * Added Transaction_ID index column
 
-Advanced Tasks
+⸻
+
+☠️Advanced Tasks
 
 * Grouped data by Brand
 * Grouped data by Region
@@ -62,7 +69,7 @@ Advanced Tasks
 
 ⸻
 
-Dashboard Visuals Created
+😎Dashboard Visuals Created
 
 * KPI Cards (Total Revenue, Total Quantity Sold, Product Count)
 * Bar Chart (Brand vs Total Revenue)
@@ -72,12 +79,11 @@ Dashboard Visuals Created
 * Table Visual
 * Matrix Visual
 * Map Visual (Customer Location)
-* Treemap
 * Stacked Bar Chart (RAM Size vs Revenue)
 
 ⸻
 
-Business Insights
+📌Business Insights
 
 1. Samsung and Apple generated the highest sales revenue, making them the strongest-performing brands.
 2. The Central region recorded the highest sales volume, indicating a strong customer base.
